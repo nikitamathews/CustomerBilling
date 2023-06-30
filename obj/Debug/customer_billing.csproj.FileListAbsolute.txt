@@ -1,0 +1,11 @@
+D:\New folder\customer_billing\bin\Debug\customer_billing.exe.config
+D:\New folder\customer_billing\bin\Debug\customer_billing.exe
+D:\New folder\customer_billing\bin\Debug\customer_billing.pdb
+D:\New folder\customer_billing\obj\Debug\customer_billing.csproj.AssemblyReference.cache
+D:\New folder\customer_billing\obj\Debug\customer_billing.csproj.SuggestedBindingRedirects.cache
+D:\New folder\customer_billing\obj\Debug\customer_billing.Properties.Resources.resources
+D:\New folder\customer_billing\obj\Debug\customer_billing.csproj.GenerateResource.cache
+D:\New folder\customer_billing\obj\Debug\customer_billing.csproj.CoreCompileInputs.cache
+D:\New folder\customer_billing\obj\Debug\customer_billing.exe
+D:\New folder\customer_billing\obj\Debug\customer_billing.pdb
+D:\New folder\customer_billing\obj\Debug\customer_billing.CustomerBilling.resources
