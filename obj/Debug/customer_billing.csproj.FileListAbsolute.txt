@@ -1,0 +1,3 @@
+D:\CustomerBilling\CustomerBilling\obj\Debug\customer_billing.csproj.AssemblyReference.cache
+D:\CustomerBilling\CustomerBilling\obj\Debug\customer_billing.CustomerBilling.resources
+D:\CustomerBilling\CustomerBilling\obj\Debug\customer_billing.csproj.GenerateResource.cache

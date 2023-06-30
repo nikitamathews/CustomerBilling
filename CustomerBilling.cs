@@ -14,7 +14,7 @@ namespace customer_billing
 
         private void btnSave_Click(object sender, EventArgs e)
         {
-            string connectionString = "Data Source=DESKTOP-R9V99R0;Initial Catalog=master;Integrated Security=True";
+            string connectionString = @"Data Source=LAPTOP-THUJOG27\MSSQLNM;Initial Catalog=ScorVigo;Integrated Security=True";
 
             string customerName = txtCustomerName.Text;
             string customerCellNumber = txtCustomerCellNumber.Text;
@@ -118,7 +118,7 @@ namespace customer_billing
 
         private void CustomerGridView_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            string connectionString = "Data Source=DESKTOP-R9V99R0;Initial Catalog=master;Integrated Security=True";
+            string connectionString = @"Data Source=LAPTOP-THUJOG27\MSSQLNM;Initial Catalog=ScorVigo;Integrated Security=True";
 
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
@@ -141,7 +141,7 @@ namespace customer_billing
 
         private void btnView_Click(object sender, EventArgs e)
         {
-            string connectionString = "Data Source=DESKTOP-R9V99R0;Initial Catalog=master;Integrated Security=True";
+            string connectionString = @"Data Source=LAPTOP-THUJOG27\MSSQLNM;Initial Catalog=ScorVigo;Integrated Security=True";
 
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
